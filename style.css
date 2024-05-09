@@ -59,12 +59,12 @@ body {
 }
 
 .estudante-div{
-    text-align: center;
+    text-align: corner;
     padding: 16px ;
 }
 
 .estudante-titulo{
-    text-align: center;
+    text-align: corner;
     padding: 50px ;
 }
 
