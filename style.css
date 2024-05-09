@@ -7,9 +7,9 @@ body {
 }
 .cabecalho {
     background-color: #5187df;
-    color: rgb(81, 223, 187);
+    color: rgb(0, 0, 0);
     display: flex;
-    justify-content: space-around;
+    justify-content: space-around 7;
     align-items: center;
     padding: 24px 0;
 }
